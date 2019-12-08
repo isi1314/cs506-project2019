@@ -1,4 +1,4 @@
-
+#simple script to reset csv dataset index
 import numpy as np
 import pandas as pd
 
