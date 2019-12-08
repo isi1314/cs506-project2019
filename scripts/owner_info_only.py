@@ -1,3 +1,4 @@
+#only keeping entries from dataset with owner/contact info - discarding entries with no such information
 import numpy as np
 import pandas as pd
 
