@@ -1,3 +1,6 @@
+#SBA data manipulation and simple column names and entries processing
+#dropping nan values
+
 import numpy as np
 import pandas as pd
 
